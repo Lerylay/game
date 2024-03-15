@@ -1,5 +1,5 @@
 /*
- * (c) Cranium, aka Череп. 2014
+ * (c) Cranium, aka Череп. 2013
  * GNU GPL
  *
  */
